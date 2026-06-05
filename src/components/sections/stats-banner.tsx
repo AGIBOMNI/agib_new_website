@@ -13,7 +13,7 @@ type Stat = {
 
 const stats: Stat[] = [
   { value: "28+", label: "Years of Trust", icon: ShieldCheck },
-  { value: "50k+", label: "Happy Customers", icon: Users },
+  { value: "100k+", label: "Happy Customers", icon: Users },
   { value: "7", label: "Branches Nationwide", icon: MapPin },
   { value: "13+", label: "ATM Locations", icon: CreditCard },
 ];
