@@ -64,7 +64,7 @@ export function AgibProducts() {
           }}
           className="mb-10 max-w-[29ch] text-[32px] font-black leading-[1.2] tracking-normal text-[#1a1a1a] md:mb-14 md:text-[52px] md:leading-[1.25]"
         >
-          <span className="text-[#67b748]">AGIB Bank </span> offers
+          <span className="text-[#67b748]">Agib Bank </span> offers
           Sharia-compliant products and services that{" "}
           <span className="text-[#67b748]">you don&apos;t need an account</span>{" "}
           to get started with.
